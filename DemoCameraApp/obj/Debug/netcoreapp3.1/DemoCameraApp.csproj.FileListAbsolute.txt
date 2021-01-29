@@ -9,7 +9,6 @@ C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreap
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.pdb
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.genruntimeconfig.cache
-C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.csprojAssemblyReference.cache
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\dll\x86\OpenCvSharpExtern.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\dll\x86\opencv_ffmpeg344.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\dll\x64\OpenCvSharpExtern.dll
@@ -19,12 +18,12 @@ C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreap
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\OpenCvSharp.Extensions.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\OpenCvSharp.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\OpenCvSharpExtern.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\opencv_ffmpeg344_64.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\OpenCvSharpExtern.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\opencv_ffmpeg344.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
-C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.csproj.CoreCompileInputs.cache
 C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.csproj.CopyComplete
+C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bio_sachin\source\repos\DemoCameraApp\DemoCameraApp\obj\Debug\netcoreapp3.1\DemoCameraApp.csproj.CoreCompileInputs.cache

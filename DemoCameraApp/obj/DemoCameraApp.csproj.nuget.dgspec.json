@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "OpenCvSharp3-AnyCPU": {
               "target": "Package",
               "version": "[3.4.4.20181118, )"

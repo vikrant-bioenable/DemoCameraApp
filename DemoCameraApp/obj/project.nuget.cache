@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RP4Z195EIhBTe/k/VPK+spqKU1AtYB48rG9XCmQ4Npg78QiL6hV27ccD62aesF09mp41f2G4sUexmruTQGVUww==",
+  "dgSpecHash": "Abglvx3/r8sYTPLSOcL+ewp7dxx1DV7bOeOtWkMUVDRX3e22T/kDp9vJ42PKVSMmVr8l4Och4QrwSyOgZ6hTnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bio_sachin\\source\\repos\\DemoCameraApp\\DemoCameraApp\\DemoCameraApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bio_sachin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\Bio_sachin\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bio_sachin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bio_sachin\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Bio_sachin\\.nuget\\packages\\opencvsharp3-anycpu\\3.4.4.20181118\\opencvsharp3-anycpu.3.4.4.20181118.nupkg.sha512",
     "C:\\Users\\Bio_sachin\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
   ],
